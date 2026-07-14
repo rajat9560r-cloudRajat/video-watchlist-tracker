@@ -42,14 +42,3 @@ Enter video name: Python Decorators Explained
 Enter duration (in minutes): 25
 Video added successfully!
 ```
-
-## Future Improvements
-
-- Add persistent storage using a file or database (currently in-memory)
-- Add categories/tags for videos
-- Add a search feature by video name
-
-## Author
-
-**Rajat**
-BCA Student | Learning Backend Development (Python, FastAPI, PostgreSQL)
